@@ -13,4 +13,4 @@ app.listen(3000, () => {
 });
 
 /** Endpoints */
-require('./enpoints')(app);
+require('./endpoints')(app);
