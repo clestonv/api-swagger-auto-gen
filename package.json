@@ -1,9 +1,12 @@
 {
   "name": "api-swagger-auto-gen",
   "version": "1.0.0",
-  "description": "",
+  "description": "Example showing th use of the swagger-autogen module.",
   "main": "index.js",
+  "readmeFilename": "README.md",
   "scripts": {
+    "start": "node index.js",
+    "swagger": "node swagger.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
